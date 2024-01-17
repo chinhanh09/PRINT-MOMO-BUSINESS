@@ -4,6 +4,7 @@
 
 Pass giải nén: tamnguyen
 
+-----------------------------------------------------------
 Update V4.1 cập nhật danh sách giao dịch trong ngày.
 
 Update V4.2 sửa lỗi không tự động relogin khi token hết hạn.
