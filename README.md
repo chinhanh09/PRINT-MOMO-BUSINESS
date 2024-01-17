@@ -1,10 +1,16 @@
-**AutoPrint MOMO BUSINESS** [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
+**AutoPrint MOMO BUSINESS** 
+
+[**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
 
 Pass giải nén: tamnguyen
 
-Update V4.0 cập nhật danh sách giao dịch trong ngày [**TẢI VỀ BẢN UPDATE**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) copy vào thư mục tool, giải nén đè lên tool cũ
+Update V4.1 cập nhật danh sách giao dịch trong ngày.
+Update V4.2 sửa lỗi không tự động relogin khi token hết hạn.
+[**TẢI VỀ BẢN UPDATE**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
+Hướng dẫn update:
+Tải file Update về và copy vào thư mục tool, giải nén đè lên tool cũ sau đó chạy như bình thường
 
-_- Cần khai báo SQL Server name trong file setting.ini để  lấy được tổng tiền hóa đơn đã xuất cho hình thức MOMO QR Tĩnh_
+**_- Cần khai báo SQL Server name trong file setting.ini để  lấy được tổng tiền hóa đơn đã xuất cho hình thức MOMO QR Tĩnh_**
 
 
 ![Hướng dẫn khai báo SQL Server name](https://user-images.githubusercontent.com/59678311/236171424-7c9cb801-444a-4eb4-bbb8-acce8586862b.png)
