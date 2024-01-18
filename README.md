@@ -5,9 +5,11 @@
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
-> Update V4.1 cập nhật danh sách giao dịch trong ngày.
+> Update V4.3 Cập nhật hàm lấy thông tin cửa hàng.
 
 > Update V4.2 sửa lỗi không tự động relogin khi token hết hạn.
+
+> Update V4.1 cập nhật danh sách giao dịch trong ngày.
 
 > [**TẢI VỀ BẢN UPDATE**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
 
