@@ -5,9 +5,11 @@
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
-> Update V4.4 Fix bug, thêm tự động cập nhật
+> Update V4.5 Sửa lỗi khi lấy tổng doanh thu trong tháng từ MOMO > 500 giao dịch.
 
-> Update V4.3 Cập nhật hàm lấy thông tin cửa hàng. Lưu ý cần xóa Token, StoreID ở file setting.ini trước khi đăng nhập
+> Update V4.4 Fix bug, thêm tự động cập nhật.
+
+> Update V4.3 Cập nhật hàm lấy thông tin cửa hàng. Lưu ý cần xóa Token, StoreID ở file setting.ini trước khi đăng nhập.
 
 > Update V4.2 sửa lỗi không tự động relogin khi token hết hạn.
 
