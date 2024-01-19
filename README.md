@@ -19,7 +19,7 @@ Pass giải nén: tamnguyen
 
 > Hướng dẫn update:
 
-> Tải file Update về và copy vào thư mục tool, giải nén đè lên tool cũ sau đó chạy như bình thường
+> Tải file Update về và copy vào thư mục chứa tool **MomoBusiness.exe** đang chạy, giải nén đè lên file cũ sau đó chạy như bình thường
 
 **_- Cần khai báo SQL Server name trong file setting.ini để  lấy được tổng tiền hóa đơn đã xuất cho hình thức MOMO QR Tĩnh_**
 
