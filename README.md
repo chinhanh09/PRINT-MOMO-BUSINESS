@@ -15,7 +15,7 @@ Pass giải nén: tamnguyen
 
 > Update V4.1 cập nhật danh sách giao dịch trong ngày.
 
-> [**TẢI VỀ BẢN UPDATE**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
+> [**TẢI VỀ BẢN UPDATE V4.5**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
 
 > Hướng dẫn update:
 
