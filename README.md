@@ -2,6 +2,8 @@
 
 [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
 
+> [**TẢI VỀ BẢN Beta V2 in với Template và Mã QR nhận diện giao dịch**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/MomoBusinessV2.rar)
+> 
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
@@ -16,7 +18,7 @@ Pass giải nén: tamnguyen
 > Update V4.1 cập nhật danh sách giao dịch trong ngày.
 
 > [**TẢI VỀ BẢN UPDATE V4.5**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
-> [**TẢI VỀ BẢN Beta V2 in với Template và Mã QR nhận diện giao dịch**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/MomoBusinessV2.rar) 
+
 > Hướng dẫn update:
 
 > Tải file Update về và copy vào thư mục chứa tool **MomoBusiness.exe** đang chạy, giải nén đè lên file cũ sau đó chạy như bình thường
