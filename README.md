@@ -2,7 +2,7 @@
 
 [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
 
-> [**TẢI VỀ BẢN Beta V2 in với Template và Mã QR nhận diện giao dịch**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/MomoBusinessV2.rar)
+> [**TẢI VỀ BẢN Beta V2 in với Template và Mã QR nhận diện giao dịch**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/UpdateBeta.rar)
 > 
 Pass giải nén: tamnguyen
 
