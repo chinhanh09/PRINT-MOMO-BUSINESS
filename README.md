@@ -2,11 +2,11 @@
 
 [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
 
-> [**TẢI VỀ BẢN Beta V2 in với Template và Mã QR nhận diện giao dịch**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/UpdateBeta.rar)
-> 
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
+> Update V4.6 Chỉnh sửa mẫu in, thêm mã QR định danh giao dịch.
+
 > Update V4.5 Sửa lỗi khi lấy tổng doanh thu trong tháng từ MOMO > 500 giao dịch.
 
 > Update V4.4 Fix bug, thêm tự động cập nhật.
