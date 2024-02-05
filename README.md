@@ -5,7 +5,7 @@
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
-> Update V4.7 Fix lỗi in giao dịch đến 23:59:59 999ms, Không in giao dịch hoàn tiền.
+> Update V4.7 Fix lỗi in giao dịch đến 23:59:59 999 mili giây tránh sót giao dịch, Không in giao dịch hoàn tiền.
 
 > Update V4.6 Chỉnh sửa mẫu in, thêm mã QR định danh giao dịch.
 
