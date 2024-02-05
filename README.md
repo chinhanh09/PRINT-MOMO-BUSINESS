@@ -7,7 +7,7 @@ Pass giải nén: tamnguyen
 -----------------------------------------------------------
 **> Update V4.7**
 
-**>- Cập nhật hàm get LSGD đến 23:59:59 999 mili giây tránh sót giao dịch.**
+**>- Cập nhật hàm get LSGD đến 23:59:59 999 mili giây giúp không bỏ sót giao dịch.**
 
 **>- Không in giao dịch hoàn tiền**
 
