@@ -5,6 +5,8 @@
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
+>** Update V4.8** Xem hướng dẫn tại đây
+
 >** Update V4.7**
 
 >**- Cập nhật hàm get LSGD đến 23:59:59 999 mili giây giúp không bỏ sót giao dịch.**
