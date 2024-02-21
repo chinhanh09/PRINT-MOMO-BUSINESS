@@ -5,7 +5,7 @@
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
->** Update V4.8** Xem hướng dẫn [**Tại đây**][(https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar](https://raw.githubusercontent.com/chinhanh09/PRINT-MOMO-BUSINESS/main/4.8))
+>** Update V4.8** Xem hướng dẫn [**Tại đây**](https://raw.githubusercontent.com/chinhanh09/PRINT-MOMO-BUSINESS/main/4.8)
 
 >** Update V4.7**
 
