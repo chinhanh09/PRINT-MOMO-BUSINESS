@@ -1,8 +1,9 @@
 **AutoPrint MOMO BUSINESS** 
 
 [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
-> [**TẢI VỀ BẢN UPDATE V5.0**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
 Pass giải nén: tamnguyen
+[**TẢI VỀ BẢN UPDATE V5.0**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
+
 
 -----------------------------------------------------------
 >** Update V4.8** Xem hướng dẫn [**Tại đây**](https://raw.githubusercontent.com/chinhanh09/PRINT-MOMO-BUSINESS/main/4.8)
