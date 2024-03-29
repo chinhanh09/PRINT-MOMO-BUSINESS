@@ -1,7 +1,7 @@
 **AutoPrint MOMO BUSINESS** 
 
 [**DOWNLOAD FULL**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/PRINT%20MOMO%20BUSINESS.rar)
-
+> [**TẢI VỀ BẢN UPDATE V5.0**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/Update.rar) 
 Pass giải nén: tamnguyen
 
 -----------------------------------------------------------
@@ -26,8 +26,6 @@ Pass giải nén: tamnguyen
 > Update V4.2 sửa lỗi không tự động relogin khi token hết hạn.
 
 > Update V4.1 cập nhật danh sách giao dịch trong ngày.
-
-> [**TẢI VỀ BẢN UPDATE V4.7**](https://github.com/chinhanh09/PRINT-MOMO-BUSINESS/raw/main/UpdateBeta.rar) 
 
 > Hướng dẫn update:
 
