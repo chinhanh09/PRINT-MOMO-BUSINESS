@@ -54,7 +54,7 @@
     "storeUser": "cnxdso17"
   },
   {
-    "IsActive": true,
+    "IsActive": false,
     "storeName": "CHI NHÁNH XĂNG DẦU SỐ 09",
     "id": 1235518,
     "storeUser": "cnxdso09"
