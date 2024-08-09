@@ -5,6 +5,7 @@
 Pass giải nén: tamnguyen
 -----------------------------------------------------------
 **HƯỚNG DẪN SỬ DỤNG:**
+
 _- Chạy file MomoBusinessV2.exe để mở chương trình, sau đó chọn máy in bill, máy in chính, nhập tài khoản và mật khẩu MOMO Bussiness và đăng nhập để sử dụng.
 
 - Phần mềm được viết bẳng AutoIT nên có thể bị trình quét virus nhận nhầm.
